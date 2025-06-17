@@ -2,4 +2,5 @@
 ![home picture](flower.png)
 ![file backgroung](back02.png)
 ![personal introduction](me.png)
+![personal introduction](me02.png)
 ![skill](picturer.png)
